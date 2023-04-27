@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/arijit-manna-4135a2211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arijit manna" height="30" width="40" /></a>
 <a href="https://hashnode.com/@Arijit2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@arijit manna" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ami.bishal.1/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1646955748444852231/XGehZ_9v_400x400.jpg" alt="arijit manna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
